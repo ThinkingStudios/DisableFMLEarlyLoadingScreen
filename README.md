@@ -1,3 +1,3 @@
-# ArchitecturyTemplateMod-Forge
+# DisableFMLEarlyLoadingScreen
 
-These Templates are [Architectury Templates](https://github.com/architectury/architectury-templates) Fork (Only Forge).
+Support forge 1.16.x
